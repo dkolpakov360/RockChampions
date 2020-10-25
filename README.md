@@ -14,9 +14,9 @@ let champions = [
 Нужно создать новый массив наоборот, где каждый индекс это достажения, а элементы в нем это имя чемпионов.
 
 ```
-Everest:  ["Vasya", "Masha"]
-Mont Blanc:  ["Vasya", "Alex",
-New Hebrides: (2) ["Kolya", "Alex"]
-Pillar Rock: (2) ["Vasya", "Alex"]
-South Pole: (2) ["Kolya", "Masha"]
+Everest: ["Vasya", "Masha"]
+Mont Blanc: ["Vasya", "Alex",
+New Hebrides: ["Kolya", "Alex"]
+Pillar Rock: ["Vasya", "Alex"]
+South Pole: ["Kolya", "Masha"]
 ```
