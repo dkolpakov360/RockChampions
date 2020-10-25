@@ -15,7 +15,7 @@ let champions = [
 
 ```
 Everest: ["Vasya", "Masha"]
-Mont Blanc: ["Vasya", "Alex",
+Mont Blanc: ["Vasya", "Alex"]
 New Hebrides: ["Kolya", "Alex"]
 Pillar Rock: ["Vasya", "Alex"]
 South Pole: ["Kolya", "Masha"]
